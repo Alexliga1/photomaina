@@ -1,0 +1,48 @@
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar .pm {
+    font-size: 2.2rem;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.onlyitems a {
+    font-family: 'Timmana', sans-serif;
+    font-size: 1.3rem;
+    color: #888888;
+}
+
+.navbar .nav-link:hover {
+    color: #000000;
+}
+
+.cards {
+    background: #eaeaea;
+}
+
+.tf a {
+    text-decoration: none;
+}
+
+.cont {
+    max-height: 400px;
+    color: #ffffff;
+}
+
+footer li a:hover {
+    color: rgb(42, 110, 85);
+}
+
+.footer p a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.footer p a:hover {
+    color: #f50707;
+}
